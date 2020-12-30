@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<HWK:HSPCOLLECTION xmlns:HWK="http://www.siemens.com/industry/automation/hwkonfig" HWK:schemaLocation="http://www.siemens.com/industry/automation/hwkonfig/xsd">
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP AI 2xSG 4-/6-wire HS </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2104 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2104x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 7MH4 134-6LB00-0DA0 </HWK:MLFB>
+      <HWK:FIRMWARE> V1.0 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.4.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.0 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.00.00.00_06.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> ET 200SP Analog input module AI 2xSG 4-/6-wire HS </HWK:COMMENT>
+      <HWK:COMMENT_A> ET 200SP Analogeingabemodul AI 2xSG 4-/6-wire HS </HWK:COMMENT_A>
+      <HWK:COMMENT_C> ET 200SP Module d&apos;entrées analogiques AI 2xSG 4-,6-wire HS </HWK:COMMENT_C>
+      <HWK:COMMENT_D> ET 200SP Módulo de entradas analógicas AI2 x SG 4 o 6 hilos HS </HWK:COMMENT_D>
+      <HWK:COMMENT_E> ET 200SP Unità di ingressi analogici AI2 x SG 4-,6 fili HS </HWK:COMMENT_E>
+      <HWK:COMMENT_J> ET 200SP Analog input module AI 2xSG 4-/6-wire HS </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP Motor starter Failsafe </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2102 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2102x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 3RK1 308-0??00-0CP0 </HWK:MLFB>
+      <HWK:FIRMWARE> V1.2 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.4.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.3 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.03.00.00_06.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Failsafe motor starter modules for ET 200SP </HWK:COMMENT>
+      <HWK:COMMENT_A> Fehlersichere Motorstarter Module für ET 200SP </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Modules démarreurs de sécurité de moteur pour ET 200SP </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulos arrancadores de seguridad de motor para ET 200SP </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Moduli avviatore fail-safe motore per ET 200SP </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Failsafe motor starter modules for ET 200SP </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP Motor starter Standard </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2101 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2101x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 3RK1 308-0??00-0CP0 </HWK:MLFB>
+      <HWK:FIRMWARE> V1.2 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.4.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V2.4 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V02.04.00.00_06.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Motor starter modules for ET 200SP </HWK:COMMENT>
+      <HWK:COMMENT_A> Motorstarter Module für ET 200SP </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Modules démarreurs de moteur pour ET 200SP </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulos arrancadores de motor para ET 200SP </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Moduli avviatore motore per ET 200SP </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Motor starter modules for ET 200SP </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP SIWAREX WP321 </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2097 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2097x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 7MH4 138-6AA00-0BA0 </HWK:MLFB>
+      <HWK:FIRMWARE> 1.1 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.3.4 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.3 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.03.00.00_06.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Weighing module for connecting analog DMS weighing modules </HWK:COMMENT>
+      <HWK:COMMENT_A> Wägemodul zum Anschluss von analogen DMS-Wägezellen </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Module de pesage pour le raccordement de pesons analogiques DMS </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulo de pesaje para conectar células de pesaje DMS analógicas </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Modulo di pesatura per il collegamento di celle di carico DMS </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Weighing module for connecting analog DMS weighing modules </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP F-CM AS-i Safety ST </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2093 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2093x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 3RK7 136-6SC00-0BC1 </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.3.5 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.4 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.04.00.00_01.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> ASIsafe communication module for the integration of safety-relevant AS-i inputs and outputs </HWK:COMMENT>
+      <HWK:COMMENT_A> ASIsafe Kommunikationsmodul zur Einbindung von sicherheitsgerichteten AS-i Eingängen und Ausgängen </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Module de communication ASIsafe pour l’intégration d’entrées et de sorties AS-i de sécurité </HWK:COMMENT_C>
+      <HWK:COMMENT_D> ASIsafe communication module for the integration of safety-relevant AS-i inputs and outputs </HWK:COMMENT_D>
+      <HWK:COMMENT_E> ASIsafe communication module for the integration of safety-relevant AS-i inputs and outputs </HWK:COMMENT_E>
+      <HWK:COMMENT_J> ASIsafe communication module for the integration of safety-relevant AS-i inputs and outputs </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> FM 450-1 COUNTER MODULE </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2087 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2087x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6ES7 450-1AP01-0AE0 </HWK:MLFB>
+      <HWK:FIRMWARE> V1.0 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.4.4.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.0 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.00.00.00_01.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Counter module, 2 channels </HWK:COMMENT>
+      <HWK:COMMENT_A> Zählerbaugruppe, 2 Kanäle </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Module de comptage, 2 voies </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulo contador, 2 canales </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Unità contatore, a 2 canali </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Counter module, 2 channels </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET200S 4 DI UC, 4 DI NAMUR, 2 RO NO/NC </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2071 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2071x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6ES7 13X-4????-0AB0 </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> V5.5.0.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V2.0 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V02.00.00.00_03.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> ET200S 4 DI UC, 4 DI NAMUR, 2 RO NO/NC </HWK:COMMENT>
+      <HWK:COMMENT_A> ET200S 4 DI UC, 4 DI NAMUR, 2 RO NO/NC </HWK:COMMENT_A>
+      <HWK:COMMENT_C> ET200S 4 DI UC, 4 DI NAMUR, 2 RO NO/NC </HWK:COMMENT_C>
+      <HWK:COMMENT_D> ET200S 4 DI UC, 4 DI NAMUR, 2 RO NO/NC </HWK:COMMENT_D>
+      <HWK:COMMENT_E> ET200S 4 DI UC, 4 DI NAMUR, 2 RO NO/NC </HWK:COMMENT_E>
+      <HWK:COMMENT_J> ET200S 4 DI UC, 4 DI NAMUR, 2 RO NO/NC </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ASM473 PARAM, ASM475 PARAM </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2070 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2070x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6GT2002-0?A10 </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.3.2.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.1 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.01.00.00_01.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> MOBY ASM473 PARAM, ASM475 PARAM </HWK:COMMENT>
+      <HWK:COMMENT_A> MOBY ASM473 PARAM, ASM475 PARAM </HWK:COMMENT_A>
+      <HWK:COMMENT_C> MOBY ASM473 PARAM, ASM475 PARAM </HWK:COMMENT_C>
+      <HWK:COMMENT_D> MOBY ASM473 PARAM, ASM475 PARAM </HWK:COMMENT_D>
+      <HWK:COMMENT_E> MOBY ASM473 PARAM, ASM475 PARAM </HWK:COMMENT_E>
+      <HWK:COMMENT_J> MOBY ASM473 PARAM, ASM475 PARAM </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> MOBY ASM470 </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2069 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2069x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6GT 2002-0FA10 </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.3.2.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.0 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.00.00.00_02.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Interface Module ASM 470 for S7-300 </HWK:COMMENT>
+      <HWK:COMMENT_A> Anschaltmodul ASM 470 für S7-300 </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Coupleur ASM 470 pour S7-300 </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulo interfase ASM 470 para S7-300 </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Unità di interfaccia ASM 470 per S7-300 </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Interface Module ASM 470 for S7-300 </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> SIWAREX U </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2060 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2060x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 7MH4601-1?A01 </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.3.2.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.1 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.01.00.00_01.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> SIWAREX U </HWK:COMMENT>
+      <HWK:COMMENT_A> SIWAREX U </HWK:COMMENT_A>
+      <HWK:COMMENT_C> SIWAREX U </HWK:COMMENT_C>
+      <HWK:COMMENT_D> SIWAREX U </HWK:COMMENT_D>
+      <HWK:COMMENT_E> SIWAREX U </HWK:COMMENT_E>
+      <HWK:COMMENT_J> SIWAREX U </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> SIWAREX M/A </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2058 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2058x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 7MH4XXX-1AA?1 </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.3.2.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.0 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.00.00.00_06.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> SIWAREX M/A </HWK:COMMENT>
+      <HWK:COMMENT_A> SIWAREX M/A </HWK:COMMENT_A>
+      <HWK:COMMENT_C> SIWAREX M/A </HWK:COMMENT_C>
+      <HWK:COMMENT_D> SIWAREX M/A </HWK:COMMENT_D>
+      <HWK:COMMENT_E> SIWAREX M/A </HWK:COMMENT_E>
+      <HWK:COMMENT_J> SIWAREX M/A </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> SIWAREX FT* </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 2036 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h2036x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 7MH4900-2AA01 </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.3.2.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.1 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.01.00.00_01.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> SIWAREX FTA, FTC </HWK:COMMENT>
+      <HWK:COMMENT_A> SIWAREX FTA, FTC </HWK:COMMENT_A>
+      <HWK:COMMENT_C> SIWAREX FTA, FTC </HWK:COMMENT_C>
+      <HWK:COMMENT_D> SIWAREX FTA, FTC </HWK:COMMENT_D>
+      <HWK:COMMENT_E> SIWAREX FTA, FTC </HWK:COMMENT_E>
+      <HWK:COMMENT_J> SIWAREX FTA, FTC </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP PotDis, BU-Cover </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0293 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0293x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6ES7 1X3-6????-???? </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.4.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V2.0 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V02.00.00.00_12.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> ET200SP PotDis: TB-BR-W, TB-n.c.-G, TB-P1-R, TB-P2-B; BU-Cover: 15 mm, 20 mm, 30mm </HWK:COMMENT>
+      <HWK:COMMENT_A> ET200SP PotDis: TB-BR-W, TB-n.c.-G, TB-P1-R, TB-P2-B; BU-Cover: 15 mm, 20 mm, 30mm </HWK:COMMENT_A>
+      <HWK:COMMENT_C> ET200SP PotDis: TB-BR-W, TB-n.c.-G, TB-P1-R, TB-P2-B; BU-Cover: 15 mm, 20 mm, 30mm </HWK:COMMENT_C>
+      <HWK:COMMENT_D> ET200SP PotDis: TB-BR-W, TB-n.c.-G, TB-P1-R, TB-P2-B; BU-Cover: 15 mm, 20 mm, 30mm </HWK:COMMENT_D>
+      <HWK:COMMENT_E> ET200SP PotDis: TB-BR-W, TB-n.c.-G, TB-P1-R, TB-P2-B; BU-Cover: 15 mm, 20 mm, 30mm </HWK:COMMENT_E>
+      <HWK:COMMENT_J> ET200SP PotDis: TB-BR-W, TB-n.c.-G, TB-P1-R, TB-P2-B; BU-Cover: 15 mm, 20 mm, 30mm </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> Compact Field Unit </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0285 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0285x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6ES7 655-5PX?1-?XX0 </HWK:MLFB>
+      <HWK:FIRMWARE> V1.2 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.6.0.1 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V2.1 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V02.01.00.00_04.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Compact Field Unit PA; Compact Field Unit DIQ </HWK:COMMENT>
+      <HWK:COMMENT_A> Compact Field Unit PA; Compact Field Unit DIQ </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Compact Field Unit PA; Compact Field Unit DIQ </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Compact Field Unit PA; Compact Field Unit DIQ </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Compact Field Unit PA; Compact Field Unit DIQ </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Compact Field Unit PA; Compact Field Unit DIQ </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> PROFINET Busadapter HA </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0278 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0278x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6DL1 193-6A??0-0AA0 </HWK:MLFB>
+      <HWK:FIRMWARE> 1.1 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> V5.6.0.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.2 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.02.00.00_03.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> PROFINET Busadapter HA: BA 2xRJ45, BA 2xFC, BA 2xLC, BA LC/RJ45, BA LC/FC, BA 2xRJ45VD </HWK:COMMENT>
+      <HWK:COMMENT_A> PROFINET Busadapter HA: BA 2xRJ45, BA 2xFC, BA 2xLC, BA LC/RJ45, BA LC/FC, BA 2xRJ45VD </HWK:COMMENT_A>
+      <HWK:COMMENT_C> PROFINET BusAdapter HA: BA 2xRJ45, BA 2xFC, BA 2xLC, BA LC/RJ45, BA LC/FC, BA 2xRJ45VD </HWK:COMMENT_C>
+      <HWK:COMMENT_D> PROFINET BusAdapter HA: BA 2xRJ45, BA 2xFC, BA 2xLC, BA LC/RJ45, BA LC/FC, BA 2xRJ45VD </HWK:COMMENT_D>
+      <HWK:COMMENT_E> PROFINET BusAdapter HA: BA 2xRJ45, BA 2xFC, BA 2xLC, BA LC/RJ45, BA LC/FC, BA 2xRJ45VD </HWK:COMMENT_E>
+      <HWK:COMMENT_J> PROFINET Busadapter HA: BA 2xRJ45, BA 2xFC, BA 2xLC, BA LC/RJ45, BA LC/FC, BA 2xRJ45VD </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP RQ HA </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0277 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0277x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6DL1 132-6HD50-0PK0 </HWK:MLFB>
+      <HWK:FIRMWARE> V1.0 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> V5.6.0.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.0 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.00.00.00_21.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Relay output modules for ET 200SP HA </HWK:COMMENT>
+      <HWK:COMMENT_A> Relaisausgabemodule für ET 200SP HA </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Modules de sorties relais pour ET 200SP HA </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulos de salidas de relé para ET 200SP HA </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Moduli di uscita relè per ET 200SP HA </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Relay output modules for ET 200SP HA </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP DQ HA </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0276 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0276x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6DL1 132-6B?00-0PH1 </HWK:MLFB>
+      <HWK:FIRMWARE> 1.1 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> V5.6.0.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V2.1 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V02.01.00.00_04.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Digital output modules for ET 200SP HA </HWK:COMMENT>
+      <HWK:COMMENT_A> Digitalausgabemodule für ET 200SP HA </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Modules de sorties TOR pour ET 200SP HA </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulos de salidas digitales para ET 200SP HA </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Unità di uscite digitali per ET 200SP HA </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Digital output modules for ET 200SP HA </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP DI HA </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0275 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0275x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6DL1 131-6??00-0P?? </HWK:MLFB>
+      <HWK:FIRMWARE> 1.1 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> V5.6.0.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V2.1 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V02.01.00.00_05.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Digital input modules for ET 200SP HA </HWK:COMMENT>
+      <HWK:COMMENT_A> Digitaleingabemodule für ET 200SP HA </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Modules d&apos;entrées TOR pour ET 200SP HA </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulos de entradas digitales para ET 200SP HA </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Unità di ingressi digitali per ET 200SP HA </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Digital input modules for ET 200SP HA </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP AQ HA </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0274 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0274x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6DL1 135-6TF00-0PH1 </HWK:MLFB>
+      <HWK:FIRMWARE> V1.0 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> V5.6.0.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.1 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.01.00.00_08.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Analog output modules for ET 200SP HA </HWK:COMMENT>
+      <HWK:COMMENT_A> Analogausgabemodule für ET 200SP HA </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Modules de sorties analogiques pour ET 200SP HA </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulos de salidas analógicas para ET 200SP HA </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Moduli di uscite analogiche per ET 200SP HA </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Analog output modules for ET 200SP HA </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP AI HA </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0273 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0273x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6DL1 13X-6??00-0PH1 </HWK:MLFB>
+      <HWK:FIRMWARE> V1.1 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> V5.6.0.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.3 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.03.00.00_18.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Analog input module for ET 200SP HA </HWK:COMMENT>
+      <HWK:COMMENT_A> Analogeingabemodule für ET 200SP HA </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Modules d&apos;entrées analogiques pour ET 200SP HA </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulos de entradas analógicas para ET 200SP HA </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Moduli di ingresso analogici per ET 200SP HA </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Analog input module for ET 200SP HA </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP IM155-6 PN HA </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0272 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0272x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6DL1 155-6AU00-0PM0 </HWK:MLFB>
+      <HWK:FIRMWARE> V1.2 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> V5.6.0.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.2 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.02.00.00_06.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> ET 200SP IM155-6 PN HA </HWK:COMMENT>
+      <HWK:COMMENT_A> ET 200SP IM155-6 PN HA </HWK:COMMENT_A>
+      <HWK:COMMENT_C> ET 200SP IM155-6 PN HA </HWK:COMMENT_C>
+      <HWK:COMMENT_D> ET 200SP IM155-6 PN HA </HWK:COMMENT_D>
+      <HWK:COMMENT_E> ET 200SP IM155-6 PN HA </HWK:COMMENT_E>
+      <HWK:COMMENT_J> ET 200SP IM155-6 PN HA </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP IM 155-6 PN HF </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0255 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0255x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6ES7 155-6AU??-0CN0 </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.4.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V5.0 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V05.00.00.00_15.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> ET 200SP IM 155-6 PN HF (V2.2 - V3.3) </HWK:COMMENT>
+      <HWK:COMMENT_A> ET 200SP IM 155-6 PN HF (V2.2 - V4.2) </HWK:COMMENT_A>
+      <HWK:COMMENT_C> ET 200SP IM 155-6 PN HF (V2.2 - V3.3) </HWK:COMMENT_C>
+      <HWK:COMMENT_D> ET 200SP IM 155-6 PN HF (V2.2 - V3.3) </HWK:COMMENT_D>
+      <HWK:COMMENT_E> ET 200SP IM 155-6 PN HF (V2.2 - V3.3) </HWK:COMMENT_E>
+      <HWK:COMMENT_J> ET 200SP IM 155-6 PN HF (V2.2 - V3.3) </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP Busadapter </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0250 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0250x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6ES7 193-6A??0-0AA0 </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.4.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V4.2 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V04.02.00.00_05.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> ET 200SP Busadapter </HWK:COMMENT>
+      <HWK:COMMENT_A> ET 200SP Busadapter </HWK:COMMENT_A>
+      <HWK:COMMENT_C> ET 200SP Busadapter </HWK:COMMENT_C>
+      <HWK:COMMENT_D> ET 200SP Adaptador de bus </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Adattatore del bus per ET 200SP </HWK:COMMENT_E>
+      <HWK:COMMENT_J> ET 200SP Busadapter </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> IM 153-2 R6 </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0246 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0246x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6ES7 153-2BA?0-0XB0 </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.4.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V3.1 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V03.01.00.00_02.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> IM 153-2 R6 </HWK:COMMENT>
+      <HWK:COMMENT_A> IM 153-2 R6 </HWK:COMMENT_A>
+      <HWK:COMMENT_C> IM 153-2 R6 </HWK:COMMENT_C>
+      <HWK:COMMENT_D> IM 153-2 R6 </HWK:COMMENT_D>
+      <HWK:COMMENT_E> IM 153-2 R6 </HWK:COMMENT_E>
+      <HWK:COMMENT_J> IM 153-2 R6 </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP IM 155-6 DP HF </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0242 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0242x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6ES7 155-6BU0?-0CN0 </HWK:MLFB>
+      <HWK:FIRMWARE> V4.2 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.3.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V3.6 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V03.06.00.00_02.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Interface module IM155-6 HIGH FEATURE for ET 200SP electronic modules </HWK:COMMENT>
+      <HWK:COMMENT_A> Interfacemodule IM155-6 HIGH FEATURE für ET 200SP Elektronikmodule </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Module d&apos;interface IM155-6 HIGH FEATURE pour modules électroniques ET 200SP </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulo de interfaz IM155-6 HIGH FEATURE para módulos electrónicos ET 200SP </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Modulo di interfaccia IM155-6 HIGH FEATURE per moduli elettronici ET 200SP </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Interface module IM155-6 HIGH FEATURE for ET 200SP electronic modules </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200SP DO </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0230 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0230x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6ES7 132-6????-0??? </HWK:MLFB>
+      <HWK:FIRMWARE>  </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> K5.5.3.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V9.0 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V09.00.00.00_11.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> Digital output modules for ET 200SP </HWK:COMMENT>
+      <HWK:COMMENT_A> Digitalausgabemodule für ET 200SP </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Modules de sorties TOR pour ET 200SP </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulos de salidas digitales para ET 200SP </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Unità di uscite digitali per ET 200SP </HWK:COMMENT_E>
+      <HWK:COMMENT_J> Digital output modules for ET 200SP </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+   <HWK:HSPELEMENT>
+      <HWK:OBJECTNAME> ET 200S IM151 3BA60 V30 </HWK:OBJECTNAME>
+      <HWK:OBJECTID> 0209 </HWK:OBJECTID>
+      <HWK:FILENAME> s7h0209x.hsps </HWK:FILENAME>
+      <HWK:MLFB> 6ES7 151-3BA60-0AB0 </HWK:MLFB>
+      <HWK:FIRMWARE> V3.0 </HWK:FIRMWARE>
+      <HWK:STEP7VERSION> V5.5.0.0 </HWK:STEP7VERSION>
+      <HWK:HSPVERSION> V1.2 </HWK:HSPVERSION>
+      <HWK:INCREMENT> V01.02.00.00_01.01.00.01 </HWK:INCREMENT>
+      <HWK:COMMENT> PROFINET IO device interface module IM 151-3 PN HS (ERTEC200) for ET 200S electronic modules; PROFINET interface and 2 ports; FW Update via bus; port diagnostics, supports isochrone mode; I&amp;M functionality; IRT and prioritized startup; shared functionality; MRP; firmware V3.0 </HWK:COMMENT>
+      <HWK:COMMENT_A> PROFINET IO-Device Interfacemodul IM 151-3 PN HS (ERTEC200) für ET200S Elektronikmodule; PROFINET Schnittstelle und 2 Ports; FW-Update über Bus; Portdiagnose, unterstützt Taktsynchronität; I&amp;M-Funktionalität; IRT und priorisierter Hochlauf; shared Funktionalität; MRP; Firmware V3.0 </HWK:COMMENT_A>
+      <HWK:COMMENT_C> Module d&apos;interface PROFINET IO-Device IM 151-3 PN HS (ERTEC200) pour modules électroniques ET 200S; interface PROFINET et 2 ports; mise à jour matérielle via bus; diagnostic de port, supporte le synchronisme d&apos;horloge; fonctionnalité I&amp;M; IRT et démarrage priorisé; fonctionnalité shared; MRP; firmware V3.0 </HWK:COMMENT_C>
+      <HWK:COMMENT_D> Módulo de interfaz dispositivo PROFINET IO IM 151-3 PN HS (ERTEC200) para módulos electrónicos ET 200S; interfaz PROFINET y 2 puertos; actualización FW vía bus; diagnóstico de puerto, soporta modo isócrono; funcionalidad I&amp;M; IRT y arranque prioritario; funcionalidad shared; MRP; firmware V3.0 </HWK:COMMENT_D>
+      <HWK:COMMENT_E> Modulo di interfaccia PROFINET IO Device IM 151-3 PN HS (ERTEC200) per moduli elettronici ET 200S; interfaccia PROFINET e 2; aggiornamento FW mediante bus; diagnostica di porta, sincronismo di clock; funzionalità I&amp;M; comunicazione IRT e l&apos;avvio prioritario; funzionalità shared; MRP; firmware V3.0 </HWK:COMMENT_E>
+      <HWK:COMMENT_J> PROFINET IO device interface module IM 151-3 PN HS (ERTEC200) for ET 200S electronic modules; PROFINET interface and 2 ports; FW Update via bus; port diagnostics, supports isochrone mode; I&amp;M functionality; IRT and prioritized startup; shared functionality; MRP; firmware V3.0 </HWK:COMMENT_J>
+   </HWK:HSPELEMENT>
+
+</HWK:HSPCOLLECTION>
